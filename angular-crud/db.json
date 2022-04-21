@@ -1,0 +1,179 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstname": "ebrahim",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "firstname": "ebrahim",
+      "lastname": "",
+      "email": "eburahim@gmail.com",
+      "mobile": "",
+      "salary": "13000000"
+    },
+    {
+      "id": 7,
+      "firstname": "rawther",
+      "lastname": "",
+      "email": "sdaf",
+      "mobile": "4242",
+      "salary": "543543525"
+    },
+    {
+      "id": 8,
+      "firstname": "sad",
+      "lastname": "qwdew",
+      "email": "rewew",
+      "mobile": "969",
+      "salary": "787698679867"
+    },
+    {
+      "id": 9,
+      "firstname": "wew",
+      "lastname": "ee",
+      "email": "ewfwe",
+      "mobile": "wefew",
+      "salary": "fewf"
+    },
+    {
+      "id": 10,
+      "firstname": "wew",
+      "lastname": "ee",
+      "email": "ewfwe",
+      "mobile": "wefew",
+      "salary": "fewf"
+    },
+    {
+      "id": 11,
+      "firstname": "wew",
+      "lastname": "ee",
+      "email": "ewfwe",
+      "mobile": "wefew",
+      "salary": "fewf"
+    },
+    {
+      "id": 12,
+      "firstname": "",
+      "lastname": "jhvj",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 13,
+      "firstname": null,
+      "lastname": "jhjhv",
+      "email": null,
+      "mobile": "99",
+      "salary": null
+    },
+    {
+      "id": 14,
+      "firstname": "wdqd",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 15,
+      "firstname": "dqwd",
+      "lastname": "eds",
+      "email": null,
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 16,
+      "firstname": "",
+      "lastname": "rgfr",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 17,
+      "firstname": "fgsrgsrvdf",
+      "lastname": "gdrg",
+      "email": "sfs",
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 18,
+      "firstname": "fgsrgsrvdf",
+      "lastname": "gdrg",
+      "email": "sfs",
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 19,
+      "firstname": "as",
+      "lastname": "adda",
+      "email": "ad",
+      "mobile": "dac",
+      "salary": "ca"
+    },
+    {
+      "id": 20,
+      "firstname": "wew",
+      "lastname": "ee",
+      "email": "ewfwevfsvssf",
+      "mobile": "wefew",
+      "salary": "fewf"
+    },
+    {
+      "id": 21,
+      "firstname": "wew",
+      "lastname": "ee",
+      "email": "ewfwevfsvssfafcadsfc",
+      "mobile": "wefew",
+      "salary": "fewf"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
